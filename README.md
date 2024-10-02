@@ -1,13 +1,13 @@
 # Glosario tecnico de JDBC
 
-### Salario Bruto
-El total de ingresos antes de deducciones, como impuestos o cotizaciones a la seguridad social.
+### JDBC (Java Database Connectivity)
+es una API en Java que permite la conexión y el acceso a bases de datos desde una aplicación Java.
 
-### Salario Neto
-La cantidad de dinero que el empleado recibe después de deducciones.
+### SQL (Structured Query Language)
+es un lenguaje estándar utilizado para interactuar con bases de datos relacionales.
 
-### Ingreso Variable
-Parte del salario que depende del desempeño o resultados alcanzados por el trabajador o la empresa.
+### DDL (Data Definition Language)
+es un subconjunto de SQL que se utiliza para definir y gestionar la estructura de las bases de datos.
 
 ### Bono
 Pago adicional, generalmente otorgado por desempeño o cumplimiento de objetivos específicos.
