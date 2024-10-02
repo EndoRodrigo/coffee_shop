@@ -4,9 +4,8 @@ import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
-import java.util.Arrays;
 
-public class princiapal {
+public class Suppliers {
 
     static DatabaseConnection dbConnection = DatabaseConnection.getInstance();
     static Connection conn = dbConnection.getConnection();
@@ -77,9 +76,9 @@ public class princiapal {
 
 
         public static void main(String[] args) throws SQLException {
-        //createTable();
-        //populateTable();
-        //viewSuppliers();
+        createTable();
+        populateTable();
+        viewSuppliers();
         viewTable();
     }
 }
